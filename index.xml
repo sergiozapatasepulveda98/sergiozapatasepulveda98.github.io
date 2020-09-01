@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Experimentación materiales Macetero</title>
+      <link>https://sergiozapatasepulveda98.github.io/docs/investigaci%C3%B3n-y-experimentaci%C3%B3n-materiales/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sergiozapatasepulveda98.github.io/docs/investigaci%C3%B3n-y-experimentaci%C3%B3n-materiales/</guid>
+      <description>Experimentación con seis materiales para maceteros.</description>
+    </item>
+    
+    <item>
       <title>Materiales a partir de Papel y Cartón Reciclado</title>
       <link>https://sergiozapatasepulveda98.github.io/docs/reciclaje-papel-y-carton/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -27,15 +36,6 @@
       
       <guid>https://sergiozapatasepulveda98.github.io/docs/mecanizado-molde-grasshopper/</guid>
       <description>Bonus 1</description>
-    </item>
-    
-    <item>
-      <title>Molde Macetero</title>
-      <link>https://sergiozapatasepulveda98.github.io/docs/molde-macetero/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://sergiozapatasepulveda98.github.io/docs/molde-macetero/</guid>
-      <description>Encargo 4</description>
     </item>
     
     <item>
@@ -63,6 +63,15 @@
       
       <guid>https://sergiozapatasepulveda98.github.io/docs/silla-cnc/</guid>
       <description>Encargo 2</description>
+    </item>
+    
+    <item>
+      <title>Matrices para impresión 3D</title>
+      <link>https://sergiozapatasepulveda98.github.io/docs/molde-macetero/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sergiozapatasepulveda98.github.io/docs/molde-macetero/</guid>
+      <description>Modelado de Molde y Macetero 3D</description>
     </item>
     
   </channel>
