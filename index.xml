@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fabricación Digital - Sergio Zapata on Nombre Alumno</title>
+    <title>Fabricación Digital - Sergio Zapata on Fabricación Digital -  Sergio Zapata</title>
     <link>https://sergiozapatasepulveda98.github.io/</link>
-    <description>Recent content in Fabricación Digital - Sergio Zapata on Nombre Alumno</description>
+    <description>Recent content in Fabricación Digital - Sergio Zapata on Fabricación Digital -  Sergio Zapata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
@@ -12,48 +12,12 @@
     
     
     <item>
-      <title>Experimentación materiales Macetero</title>
-      <link>https://sergiozapatasepulveda98.github.io/docs/investigaci%C3%B3n-y-experimentaci%C3%B3n-materiales/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://sergiozapatasepulveda98.github.io/docs/investigaci%C3%B3n-y-experimentaci%C3%B3n-materiales/</guid>
-      <description>Continuación Encargo 4</description>
-    </item>
-    
-    <item>
-      <title>Materiales a partir de Papel y Cartón Reciclado</title>
-      <link>https://sergiozapatasepulveda98.github.io/docs/reciclaje-papel-y-carton/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://sergiozapatasepulveda98.github.io/docs/reciclaje-papel-y-carton/</guid>
-      <description>Bonus 2</description>
-    </item>
-    
-    <item>
-      <title>Mecanizado Molde Grasshopper</title>
-      <link>https://sergiozapatasepulveda98.github.io/docs/mecanizado-molde-grasshopper/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://sergiozapatasepulveda98.github.io/docs/mecanizado-molde-grasshopper/</guid>
-      <description>Bonus 1</description>
-    </item>
-    
-    <item>
       <title>Planimetrias Silla</title>
       <link>https://sergiozapatasepulveda98.github.io/docs/planimetrias-silla/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://sergiozapatasepulveda98.github.io/docs/planimetrias-silla/</guid>
       <description>Encargo 1</description>
-    </item>
-    
-    <item>
-      <title>Simulación Manufactura en CNC - Respaldo</title>
-      <link>https://sergiozapatasepulveda98.github.io/docs/respaldo-cnc/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://sergiozapatasepulveda98.github.io/docs/respaldo-cnc/</guid>
-      <description>Encargo 3</description>
     </item>
     
     <item>
@@ -66,12 +30,66 @@
     </item>
     
     <item>
+      <title>Simulación Manufactura en CNC - Respaldo</title>
+      <link>https://sergiozapatasepulveda98.github.io/docs/respaldo-cnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sergiozapatasepulveda98.github.io/docs/respaldo-cnc/</guid>
+      <description>Encargo 3</description>
+    </item>
+    
+    <item>
+      <title>Mecanizado Molde Grasshopper</title>
+      <link>https://sergiozapatasepulveda98.github.io/docs/mecanizado-molde-grasshopper/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sergiozapatasepulveda98.github.io/docs/mecanizado-molde-grasshopper/</guid>
+      <description>Bonus 1</description>
+    </item>
+    
+    <item>
+      <title>Materiales a partir de Papel y Cartón Reciclado</title>
+      <link>https://sergiozapatasepulveda98.github.io/docs/reciclaje-papel-y-carton/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sergiozapatasepulveda98.github.io/docs/reciclaje-papel-y-carton/</guid>
+      <description>Bonus 2</description>
+    </item>
+    
+    <item>
       <title>Matrices para impresión 3D</title>
       <link>https://sergiozapatasepulveda98.github.io/docs/molde-macetero/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://sergiozapatasepulveda98.github.io/docs/molde-macetero/</guid>
       <description>Encargo 4</description>
+    </item>
+    
+    <item>
+      <title>Experimentación materiales Macetero</title>
+      <link>https://sergiozapatasepulveda98.github.io/docs/examen-1-producto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergiozapatasepulveda98.github.io/docs/examen-1-producto/</guid>
+      <description>Encargo 5</description>
+    </item>
+    
+    <item>
+      <title>Examen: Nuestro Producto</title>
+      <link>https://sergiozapatasepulveda98.github.io/docs/investigaci%C3%B3n-y-experimentaci%C3%B3n-materiales/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sergiozapatasepulveda98.github.io/docs/investigaci%C3%B3n-y-experimentaci%C3%B3n-materiales/</guid>
+      <description>Examen Parte 1</description>
+    </item>
+    
+    <item>
+      <title>Examen: Proceso Investigación</title>
+      <link>https://sergiozapatasepulveda98.github.io/docs/examen-2-materiales/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://sergiozapatasepulveda98.github.io/docs/examen-2-materiales/</guid>
+      <description>Examen Parte 2</description>
     </item>
     
   </channel>
